@@ -1,6 +1,8 @@
 {
-  "hi": "hi",
-  "hello": "hi",
-  "username": "r",
-  "password": "rav"
+  "acc": [
+    {
+      "username": "r",
+      "password": "rav"
+    }
+  ]
 }
